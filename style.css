@@ -56,11 +56,9 @@ section:nth-child(even) {
 section {
     min-height: 50vh;
 }
-
-video {
-    padding: 10px;
+a :hover{
+    color: rgb(12, 103, 184);
 }
-
 iframe {
     height: 75vh;
 }
